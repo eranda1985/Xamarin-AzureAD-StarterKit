@@ -1,5 +1,5 @@
 # Introduction 
-This is an experimental app to test the Azure Auth functionality in Xamarin Apps. 
+This is a stater-kit to begin work with Azure Auth functionality in Xamarin Apps. Azure AD is an indentity provider framework that'll allow signing-in regardless of the organisation or where you are. All things related to authenticating users will be handled by Azure AD. As well, it's got SSO (Single-Sing-On) built-in. 
 
 # Prerequisites 
 
